@@ -1,0 +1,11 @@
+framework module PointlessSlider {
+  umbrella header "PointlessSlider.h"
+
+  export *
+  module * { export * }
+}
+
+module PointlessSlider.Swift {
+    header "PointlessSlider-Swift.h"
+    requires objc
+}

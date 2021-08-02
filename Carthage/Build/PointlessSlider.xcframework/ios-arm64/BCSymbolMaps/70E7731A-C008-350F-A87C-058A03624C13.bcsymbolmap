@@ -1,0 +1,591 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk
+iPhoneOS14.0.sdk
+/Users/serc4/Library/Developer/Xcode/DerivedData/PointlessSlider-ahpvnnerephujiarzgrecauczixv/Build/Intermediates.noindex/ArchiveIntermediates/PointlessSlider/IntermediateBuildFilesPath/PointlessSlider.build/Release-iphoneos/PointlessSlider.build/DerivedSources/PointlessSlider_vers.c
+/Users/serc4/Projects/PointlessSliderGithub
+_$s15PointlessSlider0aB16HighlightedLayerC7displayyyF
+_$s15PointlessSlider0aB16HighlightedLayerC7displayyyFTo
+_$s15PointlessSlider0aB16HighlightedLayerCACycfcTo
+_$s15PointlessSlider0aB16HighlightedLayerC5coderACSgSo7NSCoderC_tcfcTo
+_$s15PointlessSlider0aB16HighlightedLayerC5layerACyp_tcfcTo
+_$s15PointlessSlider0aB16HighlightedLayerCfD
+_$s15PointlessSlider0aB16HighlightedLayerCfETo
+_$s15PointlessSlider0aB10TrackLayerCMa
+_$s15PointlessSlider0aB11ShadowLayerCMa
+_$s15PointlessSlider0aB9ThumbViewCMa
+_$s15PointlessSliderAAC10trackLayerAA0ab5TrackD0CvpfiTm
+_$s15PointlessSlider0aB16HighlightedLayerCMa
+_$s15PointlessSliderAAC16currentThumbViewAA0abdE0CvpfiTm
+_$s15PointlessSlider0aB16CurrentValueViewCMa
+__swift_FORCE_LOAD_$_swiftCompatibility51
+___swift_memcpy16_8
+___swift_noop_void_return
+_$sSo7CGPointVwet
+_$sSo7CGPointVwst
+_$sSo7CGPointVMa
+_$s15PointlessSliderAAC16positionForValue5valueS2d_tF
+_$s15PointlessSlider0aB16HighlightedLayerC09pointlessB0A2ACSgvpWvd
+_$s15PointlessSlider0aB16HighlightedLayerC06amountD033_F8BC886947BBC1473E6F7B963DE26705LLSo7CALayerCvpWvd
+_OBJC_METACLASS_$__TtC15PointlessSlider31PointlessSliderHighlightedLayer
+__METACLASS_DATA__TtC15PointlessSlider31PointlessSliderHighlightedLayer
+__INSTANCE_METHODS__TtC15PointlessSlider31PointlessSliderHighlightedLayer
+__IVARS__TtC15PointlessSlider31PointlessSliderHighlightedLayer
+__DATA__TtC15PointlessSlider31PointlessSliderHighlightedLayer
+_$s15PointlessSliderMXM
+_symbolic So7CALayerC
+_$s15PointlessSlider0aB16HighlightedLayerCMn
+_$s15PointlessSlider0aB16HighlightedLayerCMf
+_symbolic _____ 15PointlessSlider0aB16HighlightedLayerC
+_symbolic _____SgXw 15PointlessSliderAAC
+_$s15PointlessSlider0aB16HighlightedLayerCMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftDarwin_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftFoundation_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftDispatch_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftCoreImage_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftMetal_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_PointlessSlider
+__swift_FORCE_LOAD_$_swiftCompatibility51_$_PointlessSlider
+_$sSo7CGPointVWV
+_$sSoMXM
+_$sSo7CGPointVMn
+_$sSo7CGPointVMf
+_$sSo7CGPointVML
+_symbolic _____ So7CGPointV
+_$sSo7CGPointVMB
+_symbolic _____ 12CoreGraphics7CGFloatV
+_$sSo7CGPointVMF
+___swift_reflection_version
+_objc_classes
+_$s15PointlessSlider0aB16HighlightedLayerC09pointlessB0A2ACSgvgTq
+_$s15PointlessSlider0aB16HighlightedLayerC09pointlessB0A2ACSgvsTq
+_$s15PointlessSlider0aB16HighlightedLayerC09pointlessB0A2ACSgvMTq
+_$s15PointlessSlider0aB16HighlightedLayerCN
+_OBJC_CLASS_$__TtC15PointlessSlider31PointlessSliderHighlightedLayer
+Apple clang version 12.0.5 (clang-1205.0.19.57)
+-private-discriminator _F8BC886947BBC1473E6F7B963DE26705
+<swift-imported-modules>
+Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+/Users/serc4/Projects/PointlessSliderGithub/PointlessSlider/PointlessSliderHighlightedLayer.swift
+$sSo7CGPointVMa
+<compiler-generated>
+$sSo7CGPointVwst
+$sSo7CGPointVwet
+__swift_noop_void_return
+__swift_memcpy16_8
+$s15PointlessSliderAAC22thumbViewTrackingTouchySo7UITouchCcSgvpfi
+$s15PointlessSliderAAC16currentThumbViewAA0abdE0Cvpfi
+init
+$s15PointlessSlider0aB16HighlightedLayerCMa
+$s15PointlessSliderAAC10trackLayerAA0ab5TrackD0Cvpfi
+PointlessSlider/PointlessSliderTrackLayer.swift
+$s15PointlessSliderAAC12isContiniousSbvpfi
+$s15PointlessSliderAAC19isHasInsetsForThumbSbvpfi
+$s15PointlessSliderAAC14curvaceousness12CoreGraphics7CGFloatVvpfi
+$s15PointlessSliderAAC14thumbTintColorSo7UIColorCvpfi
+$s15PointlessSliderAAC14trackTintColorSo7UIColorCvpfi
+$s15PointlessSliderAAC16previousLocationSo7CGPointVvpfi
+$s15PointlessSliderAAC14incrementValueSdvpfi
+$s15PointlessSliderAAC12currentValueSdvpfi
+$s15PointlessSliderAAC12maximumValueSdvpfi
+$s15PointlessSliderAAC12minimumValueSdvpfi
+$s15PointlessSlider0aB16HighlightedLayerCfETo
+deinit
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU0_
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU0_yAMXEfU_
+display
+curvaceousness.get
+PointlessSlider/PointlessSlider.swift
+currentValue.get
+pointlessSlider.get
+_$s15PointlessSlider0aB11ShadowLayerC4draw2inySo12CGContextRefa_tFTo
+_$s15PointlessSlider0aB11ShadowLayerCACycfcTo
+_$s15PointlessSlider0aB11ShadowLayerC5layerACyp_tcfcTo
+_$s15PointlessSlider0aB11ShadowLayerC5coderACSgSo7NSCoderC_tcfcTo
+_$s15PointlessSlider0aB11ShadowLayerCfD
+_$s15PointlessSlider0aB11ShadowLayerCfETo
+___swift_project_boxed_opaque_existential_0
+___swift_destroy_boxed_opaque_existential_0
+_$s15PointlessSlider0aB11ShadowLayerC4draw2inySo12CGContextRefa_tFTf4dn_n
+_$s15PointlessSlider0aB11ShadowLayerC09pointlessB0A2ACSgvpWvd
+_OBJC_METACLASS_$__TtC15PointlessSlider26PointlessSliderShadowLayer
+__METACLASS_DATA__TtC15PointlessSlider26PointlessSliderShadowLayer
+__INSTANCE_METHODS__TtC15PointlessSlider26PointlessSliderShadowLayer
+__IVARS__TtC15PointlessSlider26PointlessSliderShadowLayer
+__DATA__TtC15PointlessSlider26PointlessSliderShadowLayer
+_$s15PointlessSlider0aB11ShadowLayerCMn
+_$s15PointlessSlider0aB11ShadowLayerCMf
+_symbolic _____ 15PointlessSlider0aB11ShadowLayerC
+_$s15PointlessSlider0aB11ShadowLayerCMF
+_$s15PointlessSlider0aB11ShadowLayerC09pointlessB0A2ACSgvgTq
+_$s15PointlessSlider0aB11ShadowLayerC09pointlessB0A2ACSgvsTq
+_$s15PointlessSlider0aB11ShadowLayerC09pointlessB0A2ACSgvMTq
+_$s15PointlessSlider0aB11ShadowLayerCN
+_OBJC_CLASS_$__TtC15PointlessSlider26PointlessSliderShadowLayer
+/Users/serc4/Projects/PointlessSliderGithub/PointlessSlider/PointlessSliderShadowLayer.swift
+draw
+__swift_destroy_boxed_opaque_existential_0
+__swift_project_boxed_opaque_existential_0
+$s15PointlessSlider0aB11ShadowLayerCMa
+$s15PointlessSlider0aB11ShadowLayerCfETo
+_$s15PointlessSlider0aB10TrackLayerC4draw2inySo12CGContextRefa_tF
+_$s15PointlessSlider0aB10TrackLayerC4draw2inySo12CGContextRefa_tFTo
+_$s15PointlessSlider0aB10TrackLayerCACycfcTo
+_$s15PointlessSlider0aB10TrackLayerC5layerACyp_tcfcTo
+_$s15PointlessSlider0aB10TrackLayerC5coderACSgSo7NSCoderC_tcfcTo
+_$s15PointlessSlider0aB10TrackLayerCfD
+_$s15PointlessSlider0aB10TrackLayerCfETo
+_$s15PointlessSlider0aB10TrackLayerC09pointlessB0A2ACSgvpWvd
+_OBJC_METACLASS_$__TtC15PointlessSlider25PointlessSliderTrackLayer
+__METACLASS_DATA__TtC15PointlessSlider25PointlessSliderTrackLayer
+__INSTANCE_METHODS__TtC15PointlessSlider25PointlessSliderTrackLayer
+__IVARS__TtC15PointlessSlider25PointlessSliderTrackLayer
+__DATA__TtC15PointlessSlider25PointlessSliderTrackLayer
+_$s15PointlessSlider0aB10TrackLayerCMn
+_$s15PointlessSlider0aB10TrackLayerCMf
+_symbolic _____ 15PointlessSlider0aB10TrackLayerC
+_$s15PointlessSlider0aB10TrackLayerCMF
+_$s15PointlessSlider0aB10TrackLayerC09pointlessB0A2ACSgvgTq
+_$s15PointlessSlider0aB10TrackLayerC09pointlessB0A2ACSgvsTq
+_$s15PointlessSlider0aB10TrackLayerC09pointlessB0A2ACSgvMTq
+_$s15PointlessSlider0aB10TrackLayerCN
+_OBJC_CLASS_$__TtC15PointlessSlider25PointlessSliderTrackLayer
+/Users/serc4/Projects/PointlessSliderGithub/PointlessSlider/PointlessSliderTrackLayer.swift
+$s15PointlessSlider0aB10TrackLayerCMa
+$s15PointlessSlider0aB10TrackLayerCfETo
+fillPath
+trackTintColor.get
+_$s15PointlessSlider0aB9ThumbViewC13beginTracking_4withSbSo7UITouchC_So7UIEventCSgtFTo
+_$s15PointlessSlider0aB9ThumbViewC16continueTracking_4withSbSo7UITouchC_So7UIEventCSgtFTo
+_$s15PointlessSlider0aB9ThumbViewC11endTracking_4withySo7UITouchCSg_So7UIEventCSgtFTo
+_$s15PointlessSlider0aB9ThumbViewC5frameACSo6CGRectV_tcfcTo
+_$s15PointlessSlider0aB9ThumbViewC5coderACSgSo7NSCoderC_tcfcTo
+_$s15PointlessSlider0aB9ThumbViewCfD
+_$s15PointlessSlider0aB9ThumbViewCfETo
+_$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyF
+_$s15PointlessSlider0aB9ThumbViewC13beginTracking_4withSbSo7UITouchC_So7UIEventCSgtFTf4ndn_n
+_$s15PointlessSlider0aB9ThumbViewC09pointlessB0A2ACSgvpWvd
+_OBJC_METACLASS_$__TtC15PointlessSlider24PointlessSliderThumbView
+__METACLASS_DATA__TtC15PointlessSlider24PointlessSliderThumbView
+__INSTANCE_METHODS__TtC15PointlessSlider24PointlessSliderThumbView
+__IVARS__TtC15PointlessSlider24PointlessSliderThumbView
+__DATA__TtC15PointlessSlider24PointlessSliderThumbView
+_symbolic So9UIControlC
+_$s15PointlessSlider0aB9ThumbViewCMn
+_$s15PointlessSlider0aB9ThumbViewCMf
+_symbolic _____ 15PointlessSlider0aB9ThumbViewC
+_$s15PointlessSlider0aB9ThumbViewCMF
+_$s15PointlessSliderAAC16previousLocationSo7CGPointVvpWvd
+_$s15PointlessSliderAAC16currentValueViewAA0ab7CurrentdE0CvpWvd
+_$s15PointlessSlider0aB9ThumbViewC09pointlessB0A2ACSgvgTq
+_$s15PointlessSlider0aB9ThumbViewC09pointlessB0A2ACSgvsTq
+_$s15PointlessSlider0aB9ThumbViewC09pointlessB0A2ACSgvMTq
+_$s15PointlessSlider0aB9ThumbViewCN
+_OBJC_CLASS_$__TtC15PointlessSlider24PointlessSliderThumbView
+/Users/serc4/Projects/PointlessSliderGithub/PointlessSlider/PointlessSliderThumbView.swift
+beginTracking
+isEditable.get
+maximumValue.get
+previousLocation.set
+$s15PointlessSlider0aB9ThumbViewCMa
+$s15PointlessSlider0aB9ThumbViewCfETo
+endTracking
+continueTracking
+_$s15PointlessSliderAAC12minimumValueSdvsTm
+_$s15PointlessSliderAAC12maximumValueSdvM.resume.0
+_$s15PointlessSliderAAC12currentValueSdvM.resume.0
+_$s15PointlessSliderAAC8fullness33_84A196CB4889B560AA69232D52715A4DLLAB13FullnessStateOvg
+_$s15PointlessSliderAAC14trackTintColorSo7UIColorCvgTm
+_$s15PointlessSliderAAC14trackTintColorSo7UIColorCvsTm
+_$s15PointlessSliderAAC12minimumValueSdvgTm
+_$s15PointlessSliderAAC12currentValueSdvsTm
+_$s15PointlessSliderAAC19isHasInsetsForThumbSbvgTm
+_$s15PointlessSliderAAC5frameSo6CGRectVvgTo
+_$s15PointlessSliderAAC5frameSo6CGRectVvsTo
+_$s15PointlessSliderAAC5frameABSo6CGRectV_tcfcTo
+_$s15PointlessSliderAAC18didMoveToSuperviewyyFTo
+_$s15PointlessSliderAAC5coderABSgSo7NSCoderC_tcfcTo
+_$s15PointlessSliderAAC07prepareB0yyF
+_$s15PointlessSliderAACSdIetMAgYl_TC
+_$s15PointlessSliderAACSo7UIColorCIetMAgYl_TC
+_$s15PointlessSliderAAC12CoreGraphics7CGFloatVIetMAgYl_TC
+_$s15PointlessSliderAACSbIetMAgYl_TC
+_$s15PointlessSliderAAC13beginTracking_4withSbSo7UITouchC_So7UIEventCSgtFTo
+_$s15PointlessSliderAAC16continueTracking_4withSbSo7UITouchC_So7UIEventCSgtFTo
+_$s15PointlessSliderAAC11endTracking_4withySo7UITouchCSg_So7UIEventCSgtFTo
+_$s15PointlessSliderAAC18didMoveToSuperviewyyFTm
+_$s15PointlessSliderAACfETo
+_$s15PointlessSlider0aB16CurrentValueViewC9textLabelSo7UILabelCvg
+_$sIeg_IeyB_TR
+_$s15PointlessSlider0aB16CurrentValueViewC14animateDismissyyFyycfU_
+_$s15PointlessSliderAAC5coderABSgSo7NSCoderC_tcfcTf4gn_n
+___swift_instantiateConcreteTypeFromMangledName
+_$s15PointlessSliderAAC16continueTracking_4withSbSo7UITouchC_So7UIEventCSgtFTf4ndn_n
+_$s15PointlessSliderAAC11endTracking_4withySo7UITouchCSg_So7UIEventCSgtFTf4ddn_n
+_$sSo7UITouchCIegg_SgWOe
+_$s15PointlessSlider0aB16CurrentValueViewC14animateDismissyyFyycfU_TA
+_block_copy_helper
+_block_destroy_helper
+_$s15PointlessSliderAAC12minimumValueSdvM.resume.0
+_$s15PointlessSliderAAC19isHasInsetsForThumbSbvM.resume.0
+_$s15PointlessSliderAAC14incrementValueSdvM.resume.0
+_$s15PointlessSliderAAC14trackTintColorSo7UIColorCvM.resume.0
+_$s15PointlessSliderAAC14thumbTintColorSo7UIColorCvM.resume.0
+_$s15PointlessSliderAAC14curvaceousness12CoreGraphics7CGFloatVvM.resume.0
+_$s15PointlessSliderAAC12isContiniousSbvM.resume.0
+_$s15PointlessSliderAAC10trackLayerAA0ab5TrackD0CvpWvd
+_$s15PointlessSliderAAC11shadowLayerAA0ab6ShadowD0CvpWvd
+_$s15PointlessSliderAAC16currentThumbViewAA0abdE0CvpWvd
+_$s15PointlessSliderAAC16highlightedLayerAA0ab11HighlightedD0CvpWvd
+_$s15PointlessSliderAAC22thumbViewTrackingTouchySo7UITouchCcSgvpWvd
+_symbolic _____yypG s23_ContiguousArrayStorageC
+_$ss23_ContiguousArrayStorageCyypGMD
+_symbolic _____y______pG s23_ContiguousArrayStorageC s7CVarArgP
+_$ss23_ContiguousArrayStorageCys7CVarArg_pGMD
+__METACLASS_DATA__TtC15PointlessSlider15PointlessSlider
+__INSTANCE_METHODS__TtC15PointlessSlider15PointlessSlider
+__IVARS__TtC15PointlessSlider15PointlessSlider
+__PROPERTIES__TtC15PointlessSlider15PointlessSlider
+__DATA__TtC15PointlessSlider15PointlessSlider
+_$s15PointlessSliderAACMf
+_symbolic _____ 15PointlessSliderAAC
+_symbolic Sd
+_symbolic So7UIColorC
+_symbolic Sb
+_$s15PointlessSlider0aB16CurrentValueViewCMn
+_symbolic _____ 15PointlessSlider0aB16CurrentValueViewC
+_symbolic ySo7UITouchCcSg
+_$s15PointlessSliderAACMF
+_block_descriptor
+_$s15PointlessSlider0aB16CurrentValueViewC11isPresentedSbvpWvd
+_$s15PointlessSliderAAC16previousLocationSo7CGPointVvgTq
+_$s15PointlessSliderAAC16previousLocationSo7CGPointVvsTq
+_$s15PointlessSliderAAC16previousLocationSo7CGPointVvMTq
+_$s15PointlessSliderAAC22thumbViewTrackingTouchySo7UITouchCcSgvgTq
+_$s15PointlessSliderAAC22thumbViewTrackingTouchySo7UITouchCcSgvsTq
+_$s15PointlessSliderAAC22thumbViewTrackingTouchySo7UITouchCcSgvMTq
+_$s15PointlessSliderAAC10thumbWidth12CoreGraphics7CGFloatVvgTq
+_$s15PointlessSliderAAC07prepareB0yyFTq
+_$s15PointlessSliderAAC10screenSizeSo6CGSizeVyFTq
+_$s15PointlessSliderAAC16positionForValue5valueS2d_tFTq
+_$s15PointlessSliderAAC10boundValue5value07toLowerD005upperD0S2d_S2dtFTq
+-private-discriminator _84A196CB4889B560AA69232D52715A4D
+/Users/serc4/Projects/PointlessSliderGithub/PointlessSlider/PointlessSlider.swift
+block_destroy_helper
+block_copy_helper
+$s15PointlessSlider0aB16CurrentValueViewC14animateDismissyyFyycfU_TA
+objectdestroy
+animateDismiss
+PointlessSlider/PointlessSliderCurrentValueView.swift
+isPresented.set
+currentValue.set
+roundValue
+incrementValue.get
+isContinious.get
+setTitle
+format
+$sSds23CustomStringConvertiblessAAP11descriptionSSvgTW
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZs7CVarArg_p_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgs7CVarArg_p_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCs7CVarArg_p_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFs7CVarArg_p_Tg5
+truncatingRemainder
+$sSdSFsSF23formTruncatingRemainder10dividingByyx_tFTW
+$sSd23formTruncatingRemainder10dividingByySd_tF
+boundValue
+min
+$sSdSLsSL1loiySbx_xtFZTW
+max
+$sSdSLsSL2geoiySbx_xtFZTW
+minimumValue.get
+currentValue.modify
+thumbWidth.get
+isHasInsetsForThumb.get
+previousLocation.get
+__swift_instantiateConcreteTypeFromMangledName
+PointlessSlider/PointlessSliderHighlightedLayer.swift
+PointlessSlider/PointlessSliderShadowLayer.swift
+$sIeg_IeyB_TR
+$s15PointlessSliderAACfETo
+didMoveToSuperview
+boundThumb
+_convertBoolToObjCBool
+setValue
+positionForValue
+$s15PointlessSliderAACMa
+updateLayerFrames
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+appendInterpolation
+$s12CoreGraphics7CGFloatVs23CustomStringConvertibleAAsADP11descriptionSSvgTW
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+prepareSlider
+pointlessSlider.set
+PointlessSlider/PointlessSliderThumbView.swift
+frame.set
+frame.didset
+frame.get
+isContinious.modify
+isContinious.set
+isHasInsetsForThumb.modify
+isHasInsetsForThumb.set
+isHasInsetsForThumb.didset
+curvaceousness.modify
+thumbTintColor.modify
+trackTintColor.set
+trackHighlightTintColor.get
+trackTintColor.modify
+fullness.get
+~=
+$ss16PartialRangeFromVyxGSXsSX8containsySb5BoundQzFTWSd_Tg5
+$ss16PartialRangeFromV8containsySbxFSd_Tg5
+$sSdSLsSL2leoiySbx_xtFZTW
+$sSNyxGSXsSX8containsySb5BoundQzFTWSd_Tg5
+$sSN8containsySbxFSd_Tg5
+incrementValue.modify
+maximumValue.modify
+maximumValue.didset
+minimumValue.set
+minimumValue.didset
+minimumValue.modify
+_$s15PointlessSlider0aB16CurrentValueViewC5frameSo6CGRectVvgTo
+_$s15PointlessSlider0aB16CurrentValueViewC5frameSo6CGRectVvsTo
+_$s15PointlessSlider0aB16CurrentValueViewC5frameACSo6CGRectV_tcfcTo
+_$s15PointlessSlider0aB16CurrentValueViewC5coderACSgSo7NSCoderC_tcfcTo
+_$s15PointlessSlider0aB16CurrentValueViewC14layoutSubviewsyyFTo
+_$s15PointlessSlider0aB16CurrentValueViewC07prepareE033_DA69117A053B154565B475CA1AAC88A3LLyyF
+_$sSbIegy_SbIeyBy_TR
+_$s15PointlessSlider0aB16CurrentValueViewCfD
+_$s15PointlessSlider0aB16CurrentValueViewCfETo
+_$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFyycfU_TA
+_$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFySbcfU0_TA
+_block_copy_helper.4
+_block_destroy_helper.5
+_$s15PointlessSlider0aB16CurrentValueViewC27$__lazy_storage_$_textLabel33_DA69117A053B154565B475CA1AAC88A3LLSo7UILabelCSgvpWvd
+_OBJC_METACLASS_$__TtC15PointlessSlider31PointlessSliderCurrentValueView
+__METACLASS_DATA__TtC15PointlessSlider31PointlessSliderCurrentValueView
+__INSTANCE_METHODS__TtC15PointlessSlider31PointlessSliderCurrentValueView
+__IVARS__TtC15PointlessSlider31PointlessSliderCurrentValueView
+__PROPERTIES__TtC15PointlessSlider31PointlessSliderCurrentValueView
+__DATA__TtC15PointlessSlider31PointlessSliderCurrentValueView
+_symbolic So6UIViewC
+_$s15PointlessSlider0aB16CurrentValueViewCMf
+_symbolic So7UILabelCSg
+_$s15PointlessSlider0aB16CurrentValueViewCMF
+_symbolic _____SgXw 15PointlessSlider0aB16CurrentValueViewC
+_block_descriptor.6
+_$s15PointlessSlider0aB16CurrentValueViewC11isPresentedSbvgTq
+_$s15PointlessSlider0aB16CurrentValueViewC9textLabelSo7UILabelCvgTq
+_$s15PointlessSlider0aB16CurrentValueViewC9textLabelSo7UILabelCvsTq
+_$s15PointlessSlider0aB16CurrentValueViewC9textLabelSo7UILabelCvMTq
+_$s15PointlessSlider0aB16CurrentValueViewC8setTitleyySSSgFTq
+_$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFTq
+_$s15PointlessSlider0aB16CurrentValueViewC14animateDismissyyFTq
+_$s15PointlessSlider0aB16CurrentValueViewCN
+_OBJC_CLASS_$__TtC15PointlessSlider31PointlessSliderCurrentValueView
+-private-discriminator _DA69117A053B154565B475CA1AAC88A3
+/Users/serc4/Projects/PointlessSliderGithub/PointlessSlider/PointlessSliderCurrentValueView.swift
+$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFySbcfU0_TA
+$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFySbcfU0_
+objectdestroy.2
+$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFyycfU_TA
+$s15PointlessSlider0aB16CurrentValueViewC14animatePresentyyFyycfU_
+$s15PointlessSlider0aB16CurrentValueViewCMa
+$s15PointlessSlider0aB16CurrentValueViewCfETo
+$s15PointlessSlider0aB16CurrentValueViewC14animateDismissyyFyycfU_
+$sSbIegy_SbIeyBy_TR
+animatePresent
+prepareView
+textLabel.get
+layoutSubviews
+$s15PointlessSlider0aB16CurrentValueViewC9textLabelSo7UILabelCvgAFyXEfU_
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/Overrides.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/swift-macosx-x86_64
+__ZN5swift17getRootSuperclassEv
+__ZN5swift4LazyIN12_GLOBAL__N_116ConformanceStateEE19defaultInitCallbackEPv
+__ZN12_GLOBAL__N_124searchInConformanceCacheEPKN5swift14TargetMetadataINS0_9InProcessEEEPKNS0_24TargetProtocolDescriptorIS2_EE
+__ZN12_GLOBAL__N_116ConformanceState12cacheFailureEPKvPKN5swift24TargetProtocolDescriptorINS3_9InProcessEEEm
+__ZZZL20getObjCClassMetadataPKN5swift19TargetClassMetadataINS_9InProcessEEEENK3$_1clEvENUlPvE_8__invokeES6_
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvENUlPvE_8__invokeES1_
+__ZZZL24getTypeContextDescriptorPKN5swift14TargetMetadataINS_9InProcessEEEENK3$_2clEvENUlPvE_8__invokeES6_
+__ZL17swift_unreachablePKc
+__ZZZL26getExistentialTypeMetadataN5swift23ProtocolClassConstraintEPKNS_14TargetMetadataINS_9InProcessEEEmPKNS_27TargetProtocolDescriptorRefIS2_EEENK3$_3clEvENUlPvE_8__invokeESB_
+__ZN12_GLOBAL__N_122override_equalContextsEPKN5swift23TargetContextDescriptorINS0_9InProcessEEES5_
+__ZN12_GLOBAL__N_116addImageCallbackEPK11mach_header
+__ZN12_GLOBAL__N_116addImageCallbackEPK11mach_headerl
+__ZN12_GLOBAL__N_112ConformancesE
+__ZZZL20getObjCClassMetadataPKN5swift19TargetClassMetadataINS_9InProcessEEEENK3$_1clEvE7TheLazy
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvE7TheLazy
+__ZZZL24getTypeContextDescriptorPKN5swift14TargetMetadataINS_9InProcessEEEENK3$_2clEvE7TheLazy
+__ZZZL26getExistentialTypeMetadataN5swift23ProtocolClassConstraintEPKNS_14TargetMetadataINS_9InProcessEEEmPKNS_27TargetProtocolDescriptorRefIS2_EEENK3$_3clEvE7TheLazy
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp
+addImageCallback
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs
+push_back
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/Concurrent.h
+~scope_exit
+Sources/swiftlang/swiftlang-1205.0.28.2/llvm-project/llvm/include/llvm/ADT/ScopeExit.h
+operator()
+deallocateFreeList
+clear_and_shrink_to_fit
+deallocate
+operator unsigned long
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/atomic
+/AppleInternal/BuildRoot
+load
+__cxx_atomic_load<unsigned long>
+end
+begin
+store
+__cxx_atomic_store<unsigned long>
+data
+__cxx_atomic_store<swift::overrides::ConcurrentReadableArray<(anonymous namespace)::ConformanceSection>::Storage *>
+copy<(anonymous namespace)::ConformanceSection *, (anonymous namespace)::ConformanceSection *>
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/algorithm
+__copy<(anonymous namespace)::ConformanceSection, (anonymous namespace)::ConformanceSection>
+allocate
+max<unsigned long>
+max<unsigned long, std::__1::__less<unsigned long> >
+__cxx_atomic_load<swift::overrides::ConcurrentReadableArray<(anonymous namespace)::ConformanceSection>::Storage *>
+override_equalContexts
+operator==
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/include/llvm/ADT/StringRef.h
+equals
+compareMemory
+getTypeContextIdentity
+empty
+StringRef
+strLen
+operator[]
+hasImportInfo
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/ABI/MetadataValues.h
+getFlag<2>
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/Basic/FlagSet.h
+get
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/Basic/RelativePointer.h
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<const char, false, int>, int>
+applyRelativeOffset<const swift::RelativeIndirectablePointer<const swift::TargetContextDescriptor<swift::InProcess>, true, int, swift::TargetContextDescriptor<swift::InProcess> *>, int>
+isUnique
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/ABI/Metadata.h
+__invoke
+swift_unreachable
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/Basic/Unreachable.h
+cacheFailure
+updateFailureGeneration
+getOrInsert<(anonymous namespace)::ConformanceCacheKey, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *, unsigned long &>
+__cxx_atomic_store<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+atomic_compare_exchange_strong_explicit<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+compare_exchange_strong
+__cxx_atomic_compare_exchange_strong<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+Node<(anonymous namespace)::ConformanceCacheKey &, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *, unsigned long &>
+ConformanceCacheEntry
+atomic
+__atomic_base
+__cxx_atomic_impl
+__cxx_atomic_base_impl
+destroyNode
+compareWithKey
+__cxx_atomic_load<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+ConformanceCacheKey
+searchInConformanceCache
+cacheMiss
+cachedFailure
+_swiftoverride_class_getSuperclass
+getObjCClassMetadata
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/Basic/Lazy.h
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/dispatch/once.h
+dyn_cast<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/include/llvm/Support/Casting.h
+isa<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+doit
+classof
+getKind
+getEnumeratedMetadataKind
+getSuperclass
+classHasSuperclass
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/stdlib/toolchain/Compatibility51/../../public/runtime/Private.h
+getClassObject
+cachedSuccess
+getDescription
+__cxx_atomic_load<const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *>
+isSuccessful
+findCached
+find<(anonymous namespace)::ConformanceCacheKey>
+getConformanceCacheTypeKey
+getTypeContextDescriptor
+~Snapshot
+decrementReaders
+fetch_sub
+__cxx_atomic_fetch_sub<unsigned long>
+snapshot
+incrementReaders
+fetch_add
+__cxx_atomic_fetch_add<unsigned long>
+getFailureGeneration
+defaultInitCallback
+ConformanceState
+initializeProtocolConformanceLookup
+ConcurrentReadableArray
+MiniVector
+swift51override_conformsToSwiftProtocol
+cacheSuccess
+makeSuccessful
+__cxx_atomic_store<const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *>
+getOrInsert<(anonymous namespace)::ConformanceCacheKey, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *&, int>
+Node<(anonymous namespace)::ConformanceCacheKey &, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *&, int>
+getConformingTypeAsMetadata
+getMatchingType
+matches
+getContextDescriptor
+getSwiftProtocol
+isObjC
+getSuperclassConstraint
+getTrailingObjects<const swift::TargetMetadata<swift::InProcess> *>
+Sources/swiftlang/swiftlang-1205.0.28.2/swift/include/swift/ABI/TrailingObjects.h
+getTrailingObjectsImpl
+hasSuperclassConstraint
+getProtocols
+getTrailingObjects<swift::TargetProtocolDescriptorRef<swift::InProcess> >
+callNumTrailingObjects<const swift::TargetMetadata<swift::InProcess> *>
+numTrailingObjects
+dyn_cast<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+isa<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+ConformanceCandidate
+override_getCanonicalTypeMetadata
+getExistentialTypeMetadata
+getClassConstraint
+getField<0, 1, swift::ProtocolClassConstraint>
+getProtocolContextDescriptorFlags
+getKindSpecificFlags
+forSwift
+dyn_cast<swift::TargetProtocolDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+isa<swift::TargetProtocolDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> *>
+operator bool
+getAccessFunction
+isGeneric
+dyn_cast<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+isa<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> *>
+getTypeDescriptor
+operator swift::TargetContextDescriptor<swift::InProcess> **
+operator swift::TargetContextDescriptor<swift::InProcess> *
+getDirectObjCClassName
+getIndirectObjCClass
+getTypeKind
+getTypeReferenceKind
+getProtocol
+operator const swift::TargetProtocolDescriptor<swift::InProcess> *
+applyRelativeOffset<const swift::RelativeIndirectablePointer<const swift::TargetProtocolDescriptor<swift::InProcess>, true, int, swift::TargetProtocolDescriptor<swift::InProcess> *>, int>
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<swift::TargetProtocolConformanceDescriptor<swift::InProcess>, false, int>, int>
+Snapshot
+getRootSuperclass

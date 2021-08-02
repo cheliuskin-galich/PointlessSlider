@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "a6926d9ccadf8002a0593f0956c3a6acb4f5aa3d",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "95f232d1b73714a29bbe916e8bcd0837d101071f144c5f6fe4a102317ff9a2ed",
+      "name" : "PointlessSlider",
+      "container" : "PointlessSlider.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "8cc60b8afc410d5c010ca52338c6357522695acbf30691bd1038046bb36f73f2",
+      "name" : "PointlessSlider",
+      "container" : "PointlessSlider.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}
